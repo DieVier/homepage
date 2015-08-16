@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50mm"
+   height="30mm"
+   viewBox="0 0 177.16535 106.29921"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Logo 3.svg">
+  <defs
+     id="defs3338" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="90.969915"
+     inkscape:cy="72.409105"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3362"
+     showgrid="false"
+     width="50mm"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-page="false"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3349" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3341">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-946.063)">
+    <g
+       id="g4312"
+       transform="translate(-19.319619,-2)" />
+    <g
+       id="g4312-1"
+       transform="matrix(1,0,0,0.67092124,-18.869287,283.46308)">
+      <g
+         id="g3362"
+         transform="matrix(1.3254357,0,0,1.3254357,-32.64727,-341.17034)">
+        <g
+           id="g3440"
+           transform="matrix(1.1861677,0,0,1.1861677,-28.058499,-195.27014)">
+          <ellipse
+             ry="28.158003"
+             rx="19.445436"
+             cy="1062.0458"
+             cx="144.77605"
+             id="path4277-7-6"
+             style="fill:#000000;fill-opacity:1" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.83421707px;line-height:125%;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="162.29567"
+             y="878.09912"
+             id="text3358"
+             sodipodi:linespacing="125%"
+             transform="scale(0.81909782,1.2208554)"><tspan
+               sodipodi:role="line"
+               id="tspan3360"
+               x="162.29567"
+               y="878.09912">4</tspan></text>
+        </g>
+        <g
+           id="g3387"
+           transform="matrix(1.1042051,0,0,1.1042051,-0.16648049,-107.04249)">
+          <rect
+             transform="matrix(0.55714377,-0.83041605,0.55714377,0.83041605,0,0)"
+             y="702.87061"
+             x="-563.40424"
+             height="36.756115"
+             width="9.1890287"
+             id="rect3370"
+             style="fill:#000000;fill-opacity:1" />
+          <rect
+             transform="matrix(0.55714377,0.83041605,-0.55714377,0.83041605,0,0)"
+             y="540.43164"
+             x="716.65411"
+             height="36.756115"
+             width="9.1890287"
+             id="rect3370-9"
+             style="fill:#000000;fill-opacity:1" />
+        </g>
+        <g
+           id="g3436"
+           transform="translate(-1.1058784,4.4246272)">
+          <ellipse
+             ry="19.879013"
+             rx="13.337252"
+             cy="1033.9458"
+             cx="62.905331"
+             id="path3393"
+             style="fill:#000000;fill-opacity:1" />
+          <path
+             id="path3393-6"
+             transform="matrix(0.75446889,0,0,1.1245268,38.867634,1002.5137)"
+             d="M 31.861328,48.990234 A 20.960665,40.153563 0 0 0 10.917969,88.15625 l 41.876953,0 A 20.960665,40.153563 0 0 0 31.861328,48.990234 Z"
+             style="fill:#000000;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
