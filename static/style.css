@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: #eeeeee;
+    font-family: 'Old Standard TT', serif;
+}
+
+.center {
+    width: 200px ;
+    margin-left: auto ;
+    margin-right: auto ;
+    text-align: center;
+}
+
+.interactive {
+    opacity: 1;
+    transition: opacity .25s ease-in-out;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+}
+
+.interactive:hover {
+    opacity: 0.4;
+}
+
+#title {
+    padding-top: 50px;
+
+}
+
+#die {
+    font-size: 2em;
+}
+
+#vier {
+    font-size: 3em;
+}
